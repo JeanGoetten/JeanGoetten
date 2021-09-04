@@ -6,8 +6,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=github-readme-stats&show_owner=true&theme=slateorange)](https://github.com/jeangoetten/github-readme-stats) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=k-vol&show_owner=true&theme=slateorange)](https://github.com/JeanGoetten/K-Vol) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=CoinMarketCapGetAPITicker&show-owner=true&theme=slateorange)](https://github.com/JeanGoetten/CoinMarketCapGetAPITicker) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=CryptoPanic_CleanNews_Viewer&show_owner=true&theme=slateorange)](https://github.com/JeanGoetten/CryptoPanic_CleanNews_Viewer) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=CCoinMarketCap-Wraper&show-owner=true&theme=slateorange)](https://github.com/JeanGoetten/CoinMarketCap-Wraper) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=COVID19-Lockdown-Economic-Costs&show_owner=true&theme=slateorange)](https://github.com/JeanGoetten/COVID19-Lockdown-Economic-Costs) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=Stepper-NodeMCU-ULN2803-Wifi-Blynk-Remote-Controll-Vehicle&show_owner=true&theme=slateorange)](https://github.com/JeanGoetten/Stepper-NodeMCU-ULN2803-Wifi-Blynk-Remote-Controll-Vehicle) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=DC-Motor-Car-Wifi-Remote-Control&show_owner=true&theme=slateorange)](https://github.com/JeanGoetten/DC-Motor-Car-Wifi-Remote-Control) 
