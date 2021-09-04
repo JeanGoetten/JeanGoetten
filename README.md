@@ -4,7 +4,6 @@
   <img height="217em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangoetten&bg_color=45,ff8800,ffcc00,ffaa00&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=github-readme-stats&show_owner=true&theme=slateorange)](https://github.com/jeangoetten/github-readme-stats) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=k-vol&show_owner=true&theme=slateorange)](https://github.com/JeanGoetten/K-Vol) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=CryptoPanic-CleanNews&show_owner=true&theme=slateorange)](https://github.com/JeanGoetten/CryptoPanic-CleanNews) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeangoetten&repo=COVID19-Lockdown-Costs&show_owner=true&theme=slateorange)](https://github.com/JeanGoetten/COVID19-Lockdown-Costs) 
